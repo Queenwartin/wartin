@@ -1,2 +1,1 @@
-# wartin
-upload project at github
+# rizkysamuelmp.github.io
